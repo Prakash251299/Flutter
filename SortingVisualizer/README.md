@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+A new Flutter project to visualize the data of json file as bars, got using api.
 
 ## Getting Started
 
